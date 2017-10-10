@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Snoring Level Checker</string>
+    <string name="stopped">Stopped</string>
+</resources>
